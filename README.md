@@ -1,11 +1,10 @@
+
 # DOM Mini Projects
 
-This repository contains beginner-friendly mini projects to practice DOM manipulattion using JavaScript.
+A collection of beginner-friendly DOM manipulation projects made with HTML, CSS, and JavaScript. Designed to practice and improve basic web development skills.
 
 ## Projects
 
-- [Counter](./counter): A basic counter that increases, decreases, or resets a number when buttons are clicked. My very first encounter with DOM manipulation.
-
----
+- [Counter](./counter)
 
 More projects to come!
