@@ -1,10 +1,16 @@
 
-# DOM Mini Projects
+# 🌐 DOM Mini Projects
 
-A collection of beginner-friendly DOM manipulation projects made with HTML, CSS, and JavaScript. Designed to practice and improve basic web development skills.
+A growing collection of beginner-friendly projects built using HTML, CSS, and JavaScript to practice DOM manipulation and web fundamentals.
 
-## Projects
+## 📁 Projects
 
-- [Counter](./counter)
+- [🔢 Counter](./counter/)  
+  A basic counter with increment, decrement, and reset functionality.
 
-More projects to come!
+- [🎲 Random Number Generator](./random-number-generator/)  
+  Simulates rolling two dice with special messages for doubles.
+
+---
+
+More projects coming soon!
