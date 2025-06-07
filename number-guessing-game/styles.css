@@ -1,0 +1,133 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #ABFAA9;
+    background: radial-gradient(circle, rgba(171, 250, 169, 1) 0%, rgba(73, 158, 157, 1) 100%);
+    color: #1F3233;
+}
+
+.container {
+    margin: 15vh auto;
+}
+
+header {
+    box-sizing: border-box;
+    width: 800px;
+    margin: 10vh auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    transition: 0.9s;
+}
+
+h1:hover {
+    font-size: 55px;
+}
+
+#play-msg {
+    font-size: 16px;
+    transition: 0.9s;
+}
+
+#play-msg:hover {
+    font-size: 20px;
+}
+
+#sub {
+    font-weight: 500;
+}
+
+/***************************/
+/***************************/
+
+
+main {
+    box-sizing: border-box;
+    width: 500px;
+    margin: 23vh auto;
+    text-align: center;
+}
+
+#play {
+    width: 350px;
+    padding: 18px 80px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+    border-radius: 22px;
+    border: 1px;
+    background-color: #456E73;
+    cursor: pointer;
+    color: white;
+    transition: 0.51s;
+}
+
+#play:hover {
+    background-color: #273D3F;
+    font-size: 22px;
+}
+
+
+#play-msg {
+    margin: 80px;
+    font-weight: 900;
+}
+
+
+
+
+
+/********************/
+/********************/
+/********************/
+/********************/
+/********Game Page************/
+
+
+#input {
+    border-radius: 12px;
+    font-size: 20px;
+    padding: 18px 5px;
+    border: 1px groove grey;
+    text-align: center;
+}
+
+
+#submit {
+    width: 350px;
+    padding: 18px 80px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+    border-radius: 22px;
+    border: 1px;
+    background-color: #456E73;
+    cursor: pointer;
+    color: white;
+    transition: 0.12s;
+    margin: 100px auto;
+}
+
+
+#submit:active {
+    font-size: 14px;
+}
+
+
+#goal,
+#game-message,
+#tries {
+    font-weight: 600;
+}
+
+#game-message,
+#tries {
+    font-size: 18px;
+    transition: 1s;
+}
+
+#game-message:hover,
+#tries:hover {
+    font-size: 21px;
+}
