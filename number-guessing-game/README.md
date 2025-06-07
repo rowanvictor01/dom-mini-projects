@@ -20,18 +20,6 @@ Guess a randomly generated number between 1 and 100 within 10 tries. The game gi
 - CSS3 (including radial-gradient backgrounds)
 - Vanilla JavaScript
 
-## 📁 Project Structure
-
-dom-mini-projects/
-│
-├── number-guessing-game/
-│   ├── index.html   #Landing Page
-│   ├── game-start.html   #Game Screen
-│   ├── styles.css   #Styling
-│   ├── script.js   #Game Logic
-│   └── README.md   #This File   
-
-
 ## 🚀 Future Updates
 
 - Make the game mobile-responsive
