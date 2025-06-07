@@ -13,6 +13,7 @@ A growing collection of beginner-friendly projects built using HTML, CSS, and Ja
 
 - [🕹️ Number Guessing Game](./number-guessing-game/)
   A small game where the user tries to guess a randomly generated number between a set range.
+
 ---
 
 More projects coming soon!
