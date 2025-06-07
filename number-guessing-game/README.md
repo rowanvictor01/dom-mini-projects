@@ -1,7 +1,7 @@
 
 # 🎯 Number Guessing Game
 
-A simple browser-based number guessing game built with **HTML**, **CSS**, and **JavaScript**.
+A simple browser-based number guessing game built with **HTML**, **CSS**, and **JavaScript**. Practices input handling, conditionals, DOM manipulation.
 
 ## 📜 Description
 
@@ -19,6 +19,10 @@ Guess a randomly generated number between 1 and 100 within 10 tries. The game gi
 - HTML5
 - CSS3 (including radial-gradient backgrounds)
 - Vanilla JavaScript
+
+## 📁 Project Preview
+
+![Number Guessing Game screenshot](./number-guessing-game/ngg-ss3.png)
 
 ## 🚀 Future Updates
 
