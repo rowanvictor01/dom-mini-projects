@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter | DOM Mini Projects</title>
+    <link href="styles.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Temperature Converter</h1>
+            <p class="sub">Type in temperature to convert from celsius to fahrenheit or vice versa.</p>
+        </header>
+
+        <form>
+            <div class="sec1">
+                <p class="display"></p>
+                <input class="input-field" />
+            </div>
+
+            <div class="sec2">
+                <input type="radio" id="celc-to-fahr" name="unit" />
+                <label for="celc-to-fahr">Celcius To Fahrenheit</label>
+            </div>
+
+            <div class="sec3">
+                <input type="radio" id="fahr-to-celc" name="unit" />
+                <label for="fahr-to-celc">Fahrenheit To Celcius</label>
+            </div>
+
+            <div class="enter">
+                <button type="button" class="btn">Enter</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
