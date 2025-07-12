@@ -14,8 +14,11 @@ A growing collection of beginner-friendly projects built using HTML, CSS, and Ja
 - [🕹️ Number Guessing Game](./number-guessing-game/)  
   A small game where the user tries to guess a randomly generated number between a set range.
 
-- [🌡️ Temperature Converter](./temperature-converter)  
+- [🌡️ Temperature Converter](./temperature-converter/)  
   A clean temperature converter that handles Celsius - Fahrenheit with input validation and dynamic display.
+
+- [🖼️ Photo Gallery](./photo-gallery/)
+  A simple photo gallery that displays the selected image's bigger version from a row of image thumbnails.
 
 ---
 
