@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+main.calculator {
+    border: 2px solid black;
+    width: 300px;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.screen-cont {
+    background-color: lightgray;
+    display: flex;
+}
+
+.screen {
+    margin-left: auto;
+    padding: 12px;
+    font-size: 55px;
+    font-weight: 500;
+}
+
+.buttons-cont {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 100%;
+}
+
+button {
+    width: 100%;
+    height: 60px;
+    margin: 0;
+}
+
+.zero {
+    grid-column: span 2;
+}
