@@ -17,6 +17,9 @@ A growing collection of beginner-friendly projects built using HTML, CSS, and Ja
 - [🌡️ Temperature Converter](./temperature-converter/)  
   A clean temperature converter that handles Celsius - Fahrenheit with input validation and dynamic display.
 
+- [🖩 Simple Calculator](./calculator/)  
+  A simple calculator that handles basic arithmetic and has a basic UI.
+
 ---
 
 More projects coming soon!
